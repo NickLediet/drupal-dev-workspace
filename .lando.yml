@@ -1,0 +1,4 @@
+name: drupal-dev-workspace
+recipe: drupal9
+config:
+  webroot: .
